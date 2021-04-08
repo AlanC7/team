@@ -1,0 +1,83 @@
+
+html { font-family: sans-serif; }
+
+
+body{top: 0px; left: 0px; margin:0px;}
+
+/*barra{background-color: #1C2833; color: white; height: 100px}
+.barra:hover
+{ 
+	background-color: #273746
+	
+}
+.barra ul li{list-style: none;}*/
+
+/*.lista
+{
+	
+	font-size: 150%;
+	color: white; 
+	align-content: auto; display: block; 
+	text-decoration: none;
+	float: left; margin: 0px 5px 0px 350px;
+	letter-spacing: 5px;
+
+}*/
+
+.lista{ color:black; font-size:220%;letter-spacing: 8px; font-family: sans-serif;}
+
+.inic{padding: 20px 20px; letter-spacing: 10px; font-size: 130%;}
+.caja{text-align: center; /*border: 1px solid;*/ /*background-color: white; */}
+.caja2{text-align: center;  padding: 10px 10px;}
+.cajabaja
+{
+	background-color: #242323;
+}
+.txt{ font-size: 5rem; letter-spacing: 15px; color: black;}
+.contenedor
+{
+	display:flex;
+	width: 85%
+	margin:auto;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	border-radius: 50px;
+}
+.imagens
+{
+	padding: 20px 20px;
+	width: 800px;
+	position: relative;
+}
+
+.final
+{
+
+	height: 60px;
+	background-color: #1C2833;
+}
+.txtfinal
+{
+	color: black;
+	text-align: center;
+	padding: 20px 20px;
+	font-size: 15px;
+	letter-spacing: 2px;
+}
+
+.cajabaja .containe div {overflow: hidden;}
+
+
+.containe div a img 
+
+{
+
+	object-fit: cover;
+	transition: 0.5s;
+}
+
+
+.cajabaja .containe div a >img:hover
+{	
+	transform:scale(1.5) rotate(10deg) ;
+}
