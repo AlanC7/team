@@ -24,7 +24,7 @@ body{top: 0px; left: 0px; margin:0px;}
 
 }*/
 
-.lista{ color:black; font-size:220%;letter-spacing: 8px; font-family: sans-serif;}
+.lista{ color:black; font-size:120%;letter-spacing: 5px; font-family: sans-serif;}
 
 .inic{padding: 20px 20px; letter-spacing: 10px; font-size: 130%;}
 .caja{text-align: center; /*border: 1px solid;*/ /*background-color: white; */}
